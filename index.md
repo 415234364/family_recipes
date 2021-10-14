@@ -1,6 +1,6 @@
 #family secret recipes
 set if recipes as given by grandma
--pizzas (TODO)
+-[base](pizza/base.md) 
 -sauces (TODO)
 -spreads (TODO)s
 
